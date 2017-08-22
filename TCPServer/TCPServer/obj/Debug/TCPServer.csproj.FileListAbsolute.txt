@@ -1,0 +1,10 @@
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Hasee-kv\Source\Repos\WindowsFormsApp1\TCPServer\obj\Debug\TCPServer.pdb

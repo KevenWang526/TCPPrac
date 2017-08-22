@@ -1,0 +1,10 @@
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+c:\users\hasee-kv\Source\Repos\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
